@@ -1,0 +1,7 @@
+This change introduces a new ERIFY-flavored example to the Claude Cookbooks.  
+
+- Demonstrates how to integrate Claude workflows with ERIFY AI and App Core.
+- Adds step-by-step instructions for developers.
+- Strengthens the connection between ERIFY ecosystem and Claude use cases.
+
+This PR is submitted from fork: erifystudio/claude-cookbooks.
